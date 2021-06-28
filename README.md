@@ -14,11 +14,11 @@ Advisory Services Team at Accountability Accounting is interested in offering a 
 
 * Clusters were created using K-means:
 
-*K-means of 4 was found using the elbow curve:
+* *K-means of 4 was found using the elbow curve:
 
 ![Elbow curve](https://user-images.githubusercontent.com/78942457/123573181-79e6be80-d79b-11eb-9499-6f4c1e43d50c.PNG)
 
-*A new dataframe was created using the results of the k-means process:
+* *A new dataframe was created using the results of the k-means process:
 
 ![kmeans df](https://user-images.githubusercontent.com/78942457/123573293-aa2e5d00-d79b-11eb-85cd-3a4b9bf59ec4.PNG)
 
@@ -26,7 +26,7 @@ Advisory Services Team at Accountability Accounting is interested in offering a 
 
 ![3d](https://user-images.githubusercontent.com/78942457/123573360-caf6b280-d79b-11eb-9af1-74ca1e654017.PNG)
 
-*A final dataframe and cluster plot were generated:
+* *A final dataframe and cluster plot were generated:
 
 ![final df](https://user-images.githubusercontent.com/78942457/123573448-fd081480-d79b-11eb-8fa8-4a7bfc40accf.PNG)
 
